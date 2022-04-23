@@ -1,0 +1,23 @@
+{
+  "name": "discord-fivem-stats-connected",
+  "version": "1.0.0",
+  "description": "Display the list of people connected to your server in real time on a voice room ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhyy1337/Discord-FiveM-Stats-Connected.git"
+  },
+  "author": "Akhyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhyy1337/Discord-FiveM-Stats-Connected/issues"
+  },
+  "homepage": "https://github.com/Akhyy1337/Discord-FiveM-Stats-Connected#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0"
+  }
+}
